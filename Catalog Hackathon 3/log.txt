@@ -1,0 +1,2 @@
+Add Transaction by sarathk0811: Drug: Dolo, Manufacturer: Micro Labs, Batch: 120342
+Verify Transaction by sarathk0811: Drug: Dolo, Batch: 120342
